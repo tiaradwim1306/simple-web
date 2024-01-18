@@ -8,7 +8,7 @@ Step 1 : Install package yg dibutuhkan
     
 Step 2: Download Source Code
 
-    git clone https://github.com/tiaradwim1306/simple-web /var/www/html/web/
+    git clone https://github.com/tiaradwim1306/simple-web
 
 Step 3: Edit file VirtualHost
 
