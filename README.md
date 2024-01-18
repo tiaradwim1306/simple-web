@@ -2,19 +2,19 @@
 Make a simple HTML website and publish it using Github Pages.  
 
 ## Setup Website
-Step 2 : Install package yg dibutuhkan
+Step 1 : Install package yg dibutuhkan
 
     apt install apache2 git -y
     
-Step 1: Download Source Code
+Step 2: Download Source Code
 
     git clone https://github.com/tiaradwim1306/simple-web /var/www/html
 
-Step 2: Restart apache2 
+Step 3: Restart apache2 
 
     systemctl restart apache2
 
-Step 3: Access web server
+Step 4: Access web server
 
     http://ip_address_server/  
 
