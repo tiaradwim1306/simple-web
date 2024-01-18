@@ -17,15 +17,15 @@ Step 3: Edit file VirtualHost
     DocumentRoot /var/www/html/web
     .......
 
-Step 5 : 
+Step 4 : 
 
+    a2ensite 000-default.conf
     
-    
-Step 4: Restart apache2 
+Step 5: Restart apache2 
 
     systemctl restart apache2
 
-Step 5: Access web server
+Step 6: Access web server
 
     http://ip_address_server/  
 
