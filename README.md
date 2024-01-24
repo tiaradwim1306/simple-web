@@ -14,7 +14,7 @@ Step 3: Edit file VirtualHost
 
     .......
     ServerAdmin webmaster@localhost
-    DocumentRoot /var/www/html/web
+    DocumentRoot /var/www/html/simple-web
     .......
 
 Step 4 : 
